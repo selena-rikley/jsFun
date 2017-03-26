@@ -1,0 +1,24 @@
+{
+  "name": "jsfun",
+  "version": "1.0.0",
+  "description": "learning js",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selena-rikley/jsFun.git"
+  },
+  "author": "Selena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selena-rikley/jsFun/issues"
+  },
+  "homepage": "https://github.com/selena-rikley/jsFun#readme"
+}
